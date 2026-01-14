@@ -40,7 +40,7 @@ export default function MarketingLayout({
         {children}
         <footer 
         style={{
-          backgroundColor: "ghostwhite",
+          backgroundColor: "lightblue",
           padding: "1rem",
           
         }}>
